@@ -16,7 +16,7 @@
     "js-md5": "^0.7.3",
     "localforage": "^1.7.2",
     "mavon-editor": "^2.7.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.5.17",
     "vue-i18n": "^8.1.0",
     "vue-router": "^3.0.1",
