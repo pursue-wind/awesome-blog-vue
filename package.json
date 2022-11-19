@@ -27,7 +27,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.3",
     "@vue/cli-plugin-eslint": "^3.0.3",
-    "@vue/cli-service": "^3.0.3",
+    "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-standard": "^3.0.3",
     "deepmerge": "^4.2.2",
     "fibers": "^4.0.2",
